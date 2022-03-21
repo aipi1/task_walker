@@ -6,6 +6,6 @@
 
 Результаты примерно двухчасового обучения приведены на скриншотах снизу
 
-![tensorboard plots](https://github.com/aipi1/task_walker/main/Project/Assets/ModelTraining/results/1.png?raw=true)
+![tensorboard plots](https://github.com/aipi1/task_walker/blob/main/Project/Assets/ModelTraining/results/1.png)
 
-![tensorboard plots](https://github.com/aipi1/task_walker/main/Project/Assets/ModelTraining/results/22.png?raw=true)
+![tensorboard plots](https://github.com/aipi1/task_walker/blob/main/Project/Assets/ModelTraining/results/22.png)
