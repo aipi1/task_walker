@@ -5,3 +5,7 @@
 В самом тренажере Walker у первых пяти WalkerRagdoll(0-4) поставлена итоговая модель **WalkerFinalModel.onnx**, у остальных выставлена модель по умолчанию.(для сравнения работы моделей)
 
 Результаты примерно двухчасового обучения приведены на скриншотах снизу
+
+![tensorboard plots](https://github.com/aipi1/task_walker/blob/main/Screenshot 2022-03-21 at 01.08.12.png.jpg?raw=true)
+
+![tensorboard plots](https://github.com/aipi1/task_walker/blob/main/Screenshot 2022-03-21 at 01.08.30.png.jpg?raw=true)
